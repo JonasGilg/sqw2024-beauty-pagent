@@ -1,1 +1,1 @@
-# sqw2024-beauty-pagent
+# Project Template
