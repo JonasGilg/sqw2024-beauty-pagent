@@ -1,0 +1,32 @@
+*.tar
+
+.env
+
+# ignore user/workspace settings etc. of VSCode
+.vscode
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# build files
+
+build/
+dist/
+
+# NOTE: Add your language specific files here!

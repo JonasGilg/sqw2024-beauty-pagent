@@ -1,0 +1,3 @@
+TODO:
+- You should pick a license that fits your requirements.
+- A good starting point is the following website: https://choosealicense.com/
